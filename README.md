@@ -64,3 +64,10 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/sourajit0/wordle-clone.git
+## Live Demo
+
+Check out the live demo of the app [here](https://sourajit0.github.io/wordle_clone/).
+
+## Screenshots
+
+![Screenshot of the music player app](Screenshot.png)
